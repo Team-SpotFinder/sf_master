@@ -10,7 +10,7 @@ SpotFinder is an innovative and sustianable parking solution that eliminates the
 </div>
 
 
-[Demo Video](https://github.com/Team-SpotFinder/sf_master/src/branch/main/resources/images/Demo.mp4)
+[Demo Video](https://github.com/Team-SpotFinder/sf_master/tree/main/resources/images/Demo.mp4)
 
 ## Table of Content
 
