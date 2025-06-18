@@ -1,0 +1,49 @@
+repositories:
+  sf_driving_controller:
+    type: git
+    url: https://git.hs-coburg.de/SpotFinder/sf_driving_controller
+    version: main
+  sf_env:
+    type: git
+    url: https://git.hs-coburg.de/SpotFinder/sf_env
+    version: main
+  sf_mi:
+    type: git
+    url: https://git.hs-coburg.de/SpotFinder/sf_mi
+    version: main
+  sf_ui:
+    type: git
+    url: https://git.hs-coburg.de/SpotFinder/sf_ui
+    version: main
+  sf_v2x_com:
+    type: git
+    url: https://git.hs-coburg.de/SpotFinder/sf_v2x_com
+    version: main
+  sf_localization:
+    type: git
+    url: https://git.hs-coburg.de/SpotFinder/sf_localization
+    version: main
+  sf_path_plan:
+    type: git
+    url: https://git.hs-coburg.de/SpotFinder/sf_path_plan
+    version: main
+  sf_traffic_monitor:
+    type: git
+    url: https://git.hs-coburg.de/SpotFinder/sf_traffic_monitor
+    version: main
+  sf_msgs:
+    type: git
+    url: https://git.hs-coburg.de/SpotFinder/sf_msgs
+    version: main
+  sf_v2x_server:
+    type: git
+    url: https://git.hs-coburg.de/SpotFinder/sf_v2x_server
+    version: main
+  v2x:
+    type: git
+    url: https://git.hs-coburg.de/Autonomous_Driving/v2x.git
+    version: students_msgs
+  sf_model_city_map:
+    type: git
+    url: https://git.hs-coburg.de/SpotFinder/sf_model_city_map
+    version: main

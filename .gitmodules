@@ -1,0 +1,39 @@
+[submodule "src/sf_env"]
+	path = src/sf_env
+	url = https://git.hs-coburg.de/SpotFinder/sf_env
+[submodule "src/sf_path_plan"]
+	path = src/sf_path_plan
+	url = https://git.hs-coburg.de/SpotFinder/sf_path_plan
+[submodule "src/sf_mi"]
+	path = src/sf_mi
+	url = https://git.hs-coburg.de/SpotFinder/sf_mi
+[submodule "src/sf_driving_controller"]
+	path = src/sf_driving_controller
+	url = https://git.hs-coburg.de/SpotFinder/sf_driving_controller
+[submodule "src/sf_ui"]
+	path = src/sf_ui
+	url = https://git.hs-coburg.de/SpotFinder/sf_ui
+[submodule "src/sf_localization"]
+	path = src/sf_localization
+	url = https://git.hs-coburg.de/SpotFinder/sf_localization
+[submodule "src/sf_v2x_com"]
+	path = src/sf_v2x_com
+	url = https://git.hs-coburg.de/SpotFinder/sf_v2x_com
+[submodule "src/sf_traffic_monitor"]
+	path = src/sf_traffic_monitor
+	url = https://git.hs-coburg.de/SpotFinder/sf_traffic_monitor
+[submodule "src/sf_msgs"]
+	path = src/sf_msgs
+	url = https://git.hs-coburg.de/SpotFinder/sf_msgs
+[submodule "src/sf_msgs"]
+	path = src/sf_msgs
+	url = https://git.hs-coburg.de/SpotFinder/sf_msgs
+[submodule "src/sf_v2x_server"]
+	path = src/sf_v2x_server
+	url = https://git.hs-coburg.de/SpotFinder/sf_v2x_server
+[submodule "src/v2x"]
+	path = src/v2x
+	url = https://git.hs-coburg.de/Autonomous_Driving/v2x.git
+[submodule "src/sf_model_city_map"]
+	path = src/sf_model_city_map
+	url = https://git.hs-coburg.de/SpotFinder/sf_model_city_map
